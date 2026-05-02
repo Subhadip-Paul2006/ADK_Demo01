@@ -1,5 +1,5 @@
 venv/
-my_agent-v2/.env
-my_agent-v2/__pycache__/
-my_agent-v2/*.pyc
+my_agent_v2/.env
+my_agent_v2/*.pyc
+my_agent_v2/__pycache__/
 .adk/
